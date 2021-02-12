@@ -3,6 +3,7 @@
 Question 1 (20%)
 
 Convert the function below to an arrow function:
+
 function division(a, b) {
 return a % b;
 }

@@ -1,6 +1,7 @@
 # martin-krane-js1-ma3-
 
 Question 1 (20%)
+
 Convert the function below to an arrow function:
 function division(a, b) {
 return a % b;
@@ -9,6 +10,8 @@ return a % b;
 
 
 Question 2 (80%)
+
+
 Make a call to the following API endpoint: Games API endpoint
 Loop through the results and display the following properties in
 HTML, but only for the first eight results:

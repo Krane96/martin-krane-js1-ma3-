@@ -21,7 +21,7 @@ async function displayGamesFromApi() {
       resultsContainer.innerHTML += `<div class="result"><p>Name:</p>${games[i].name}<br></br><p>Rating:</p>${games[i].rating}<br></br><p>Tags:</p>${games[i].tags.length}</div>`;
     }
   } catch (error) {
-    resultsContainer.innerHTML = displayError();
+    
   }
 }
 
